@@ -1,5 +1,8 @@
 # Git related
 
+> Revised version is here: https://logistics.camber.moe/2020/GitRevised/  which is Licensed under CC BY-SA 4.0.
+> This page is licensed under CC0-1.0.
+
 看起来好多同学似乎在Git配置出现了困难. 这里分享下Camber自己配置的经验.
 
 ## 0x01 Installing Git
